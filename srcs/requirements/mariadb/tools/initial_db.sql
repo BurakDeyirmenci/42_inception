@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS wordpress;
+CREATE USER IF NOT EXISTS 'rdeyirme'@'%' IDENTIFIED BY 'Penguen.4556';
+GRANT ALL PRIVILEGES ON wordpress.* TO 'rdeyirme'@'%';
+FLUSH PRIVILEGES;
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Penguen.6554';
