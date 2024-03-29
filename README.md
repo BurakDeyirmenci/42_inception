@@ -22,7 +22,3 @@ Bu proje, Docker kullanarak sistem yönetimi bilginizi genişletmeyi amaçlar. Y
 Bu proje, belirli kurallar altında farklı hizmetlerden oluşan küçük bir altyapı kurmanızı gerektirir. Tüm proje bir sanal makinede yapılmalıdır. Docker compose kullanmanız gerekiyor.
 
 ---
-
-### Bonus kısım
-
-Bu projede, bonus bölümü basit olacak şekilde tasarlanmıştır.
